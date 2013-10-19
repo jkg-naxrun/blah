@@ -1,0 +1,40 @@
+@import url(http://fonts.googleapis.com/css?family=Electrolize);
+
+body, html {
+  margin: 0;
+  padding: 0;
+  background: #f0eee0;
+  font: 100% Arial, Helvetica, sans-serif;
+  color: #444;
+}
+
+h1,h2,h3,h4,h5,h6 {line-height: 1em; font-family: "Electrolize", sans-serif;}
+h1 {font-size: 3em; color: tomato; text-transform: uppercase;}
+h2 {font-size: 2em; text-transform: uppercase; font-style: italic;}
+h3 {font-size: 1.6em; font-weight: lighter;}
+h4 {font-size: 1.4em; font-style: italic;}
+h5 {font-size: 1.2em;}
+h6 {font-size: 1em; font-style: italic;}
+p, li, pre, code {
+  line-height: 1.6em;
+}
+
+#wrap {
+  width: 960px;
+  margin: 0 auto;
+}
+
+#gameCanvas {
+  width: 896px;
+  height: 576px;
+  background: white;
+  border: 32px solid tomato;
+}
+
+.triangle {
+  width:0;
+  height:0;
+  margin-top: -32px;
+  border: 32px solid transparent;
+  border-bottom-color: tomato;
+}

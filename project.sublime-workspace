@@ -1,0 +1,756 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tem",
+				"templateFormCompiled"
+			],
+			[
+				"templ",
+				"templateFormString"
+			],
+			[
+				"inputField",
+				"inputFieldName"
+			],
+			[
+				"com",
+				"componentsCount"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"s",
+				"_start"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"mouse",
+				"love.mouse.getX"
+			],
+			[
+				"mou",
+				"love.mouse.getX"
+			],
+			[
+				"love",
+				"love.mousepressed"
+			],
+			[
+				"isDow",
+				"love.mouse.isDown"
+			],
+			[
+				"draw",
+				"draworder"
+			],
+			[
+				"mous",
+				"love.mousepressed"
+			],
+			[
+				"ke",
+				"love.keyboard.isDown"
+			],
+			[
+				"ent",
+				"entities"
+			],
+			[
+				"render",
+				"renderer"
+			],
+			[
+				"comp",
+				"components"
+			],
+			[
+				"fil",
+				"fillRect"
+			],
+			[
+				"ran",
+				"ranChar"
+			],
+			[
+				"fi",
+				"fillStyle"
+			],
+			[
+				"clear",
+				"clearCol"
+			],
+			[
+				"und",
+				"undefined"
+			],
+			[
+				"can",
+				"canvasId"
+			],
+			[
+				"inner",
+				"innerHeight"
+			],
+			[
+				"nu",
+				"numPixels"
+			],
+			[
+				"f",
+				"fun	Function"
+			],
+			[
+				"_",
+				"_bgCtx"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"bg",
+				"bgCanvas"
+			],
+			[
+				"ig",
+				"ige	\n      Defines an Impact entity.\n    "
+			],
+			[
+				"curren",
+				"currentAnim"
+			],
+			[
+				"ga",
+				"Game"
+			],
+			[
+				"fo",
+				"forward"
+			],
+			[
+				"tur",
+				"turnSped"
+			],
+			[
+				"anim",
+				"anims"
+			],
+			[
+				"a",
+				"anims"
+			],
+			[
+				"h",
+				"horizontal"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"input",
+				"InputDelegate"
+			],
+			[
+				"ve",
+				"vertical"
+			],
+			[
+				"i",
+				"igm	\n      Defines an Impact module.\n    "
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 278,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 65,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/Build Systems/html.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"synht",
+				"Set Syntax: HTML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"nasm",
+				"Set Syntax: Assembly x86"
+			],
+			[
+				"nas",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"love",
+				"Set Syntax: Lua (Love)"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua (Love)"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"lov",
+				"Set Syntax: Lua (Love)"
+			],
+			[
+				"synlov",
+				"Set Syntax: Lua (Love)"
+			],
+			[
+				"lu",
+				"Set Syntax: Lua (Love)"
+			],
+			[
+				"synlove",
+				"Set Syntax: Lua (Love)"
+			],
+			[
+				"syntlo",
+				"Set Syntax: Lua (Love)"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"im",
+				"Set Syntax: ImpactJS"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"imp",
+				"Set Syntax: ImpactJS"
+			],
+			[
+				"setim",
+				"Set Syntax: ImpactJS"
+			],
+			[
+				"syi",
+				"Set Syntax: ImpactJS"
+			],
+			[
+				"synim",
+				"Set Syntax: ImpactJS"
+			],
+			[
+				"ima",
+				"Set Syntax: ImpactJS"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Gits/test/lib/postal/postal-0.8.9.js",
+		"/C/Users/jkg/Desktop/naxrun-vhost/styles/main.css",
+		"/C/Users/jkg/Desktop/naxrun-vhost/scripts/main.js",
+		"/C/Users/jkg/Desktop/naxrun-vhost/index.html",
+		"/C/Users/jkg/Desktop/Libs/Require/require.js",
+		"/C/Users/jkg/Desktop/naxrun-vhost/vendor/sizzle/sizzle.js",
+		"/C/Users/jkg/Desktop/naxrun-vhost/templates/form.hbs",
+		"/C/Users/jkg/Desktop/naxrun-vhost/vendor/handlebars/handlebars-1.0.0.js",
+		"/C/Program Files/Construct 2/c2license.txt",
+		"/C/Users/jkg/Desktop/Abacus-Abacus-bee7a5a/src/abacus.js",
+		"/C/Users/jkg/Desktop/ComponentBasedGameFramework/js/utility-functions.js",
+		"/C/Users/jkg/Desktop/HTML5 vanilla/modules/util/extend.js",
+		"/C/Users/jkg/Desktop/HTML5 vanilla/modules/util/collection.js",
+		"/C/Users/jkg/Desktop/HTML5 vanilla/modules/lib/underscore.js",
+		"/C/Users/jkg/Desktop/HTML5 vanilla/modules/util/inheritance.js",
+		"/C/Users/jkg/Desktop/HTML5 vanilla/hello.asm",
+		"/C/Users/jkg/Desktop/HTML5 vanilla/hello.o",
+		"/C/Users/jkg/AppData/Roaming/Sublime Text 3/Packages/User/Build Systems/html.sublime-build",
+		"/C/Users/jkg/Documents/DFL/SOK/Kommunikation.md",
+		"/C/Users/jkg/Desktop/HTML5 vanilla/modules/simplex.js",
+		"/C/Users/jkg/AppData/Roaming/npm/node_modules/simplex-noise/simplex-noise.js",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/draw.lua",
+		"/C/Users/jkg/Downloads/debug_unstable.lua",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/entities/hand.lua",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/mouse.lua",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/delegates/input.js",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/entities/road.lua",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/entities/fillings.lua",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/entities/stacks.lua",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/load.lua",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/conf.lua",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/entities.lua",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/utility/LCS.lua",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/utility/inputdelegate.lua",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/update.lua",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/entities/stack.lua",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/entities/entity.lua",
+		"/C/Users/jkg/AppData/Roaming/LOVE/Viborg Jam/log.txt",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/main.lua",
+		"/C/Users/jkg/AppData/Roaming/Sublime Text 3/Packages/User/Build Systems/love-run.sublime-build",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/controls.lua",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/create_game_exe.bat",
+		"/C/Applications/GameDevelopment/LOVE/Games/Viborg Jam/conf.lua",
+		"/C/Applications/GameDevelopment/LOVE/Games/Viborg Jam/start.bat",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/class.lua",
+		"/C/Users/jkg/AppData/Roaming/Sublime Text 3/Packages/User/love-run.sublime-build",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/utility.lua",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/anal.lua",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/entities/fillings/stacks/tomato_stack.lua",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/entities/surface.lua",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/entities/fillings/tomato.lua",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/entities/filling.lua",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/stack.lua",
+		"/C/Users/jkg/Applications/GameDevelopment/LOVE/Games/Viborg Jam/start.bat",
+		"/C/Users/jkg/Desktop/HTML5 vanilla/modules/entities/entity.js",
+		"/C/Users/jkg/Desktop/HTML5 vanilla/modules/components/component",
+		"/C/Users/jkg/Desktop/HTML5 vanilla/modules/components",
+		"/C/Users/jkg/Desktop/HTML5 vanilla/entities/entity.js",
+		"/C/Users/jkg/Desktop/HTML5 vanilla/modules/shims/es5.js",
+		"/C/Users/jkg/Desktop/HTML5 vanilla/modules/classes.js",
+		"/C/Users/jkg/Desktop/HTML5 vanilla/modules/main.kd",
+		"/C/Users/jkg/Desktop/HTML5 vanilla/modules/class.js",
+		"/C/Users/jkg/Desktop/HTML5 vanilla/require.js",
+		"/C/xampp/htdocs/games/learn/lib/impact/system.js",
+		"/C/xampp/htdocs/games/learn/lib/impact/impact.js",
+		"/C/xampp/htdocs/games/learn/index.html",
+		"/C/xampp/htdocs/games/learn/lib/game/entities/player.js",
+		"/C/xampp/htdocs/games/learn/lib/game/main.js",
+		"/C/xampp/htdocs/games/learn/lib/utility/constset.js",
+		"/C/Users/jkg/Saved Games/Arx Libertatis/save/save0000/gsave.sav",
+		"/C/Program Files (x86)/Steam/steamapps/common/Arx Fatalis/Save/Save0002/Gsave.sav",
+		"/C/xampp/htdocs/games/learn/lib/utility/display.js",
+		"/C/xampp/htdocs/games/learn/lib/game/entities/util/input.js",
+		"/C/xampp/htdocs/games/jumpnrun/lib/game/entities/spike.js",
+		"/C/Users/jkg/AppData/Roaming/Sublime Text 3/Packages/User/javascript/siaf.sublime-snippet",
+		"/C/xampp/htdocs/jungletanks/tools/bake.bat",
+		"/C/Users/jkg/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/jungletanks/lib/game/levels/grass.js",
+		"/C/xampp/htdocs/jungletanks/lib/game/entities/tank.js",
+		"/C/xampp/htdocs/jungletanks/lib/game/main.js",
+		"/C/xampp/htdocs/jungletanks/media/tank-base.png",
+		"/C/xampp/htdocs/jungletanks/media/04b03.font.png",
+		"/C/Users/jkg/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"color: ",
+			"label",
+			"id",
+			"form",
+			"dat",
+			"asfa",
+			"  -webkit-transition: all 0.1s ease-in;\n  -moz-transition: all 0.1s ease-in;\n  -ms-transition: all 0.1s ease-in;\n  -o-transition: all 0.1s ease-in;\n  transition: all 0.1s ease-in;",
+			"4em",
+			"0.3",
+			"2em",
+			"400px",
+			"960px",
+			"3",
+			"0.3em",
+			"#000",
+			"1",
+			"3",
+			"4px",
+			"turquoise",
+			"aquamarinetur",
+			"darkturquoise",
+			"type=\"text/javascript\"",
+			"createCache",
+			"{{|| ",
+			"{{or ",
+			"or",
+			"name",
+			"window",
+			"global",
+			"}\n",
+			"{}",
+			"o",
+			";",
+			" =",
+			"o.",
+			"this",
+			":",
+			",\n",
+			"(",
+			"= ",
+			"(",
+			"\n",
+			"function ",
+			"__hasProp",
+			"relative",
+			"XMLHttpRequest",
+			"XHR",
+			"fetch",
+			"load",
+			"define",
+			"ajax",
+			"http",
+			"xml",
+			"context",
+			"project_path",
+			"\\",
+			"love.mouse",
+			"§",
+			"2",
+			"150",
+			"1",
+			"entity",
+			"self",
+			"cucumber",
+			"self.",
+			"dt",
+			"update",
+			"300",
+			"500",
+			"hand",
+			"subimages",
+			"surface",
+			"extends",
+			"exten",
+			"Entity",
+			"Surface",
+			"y",
+			"x",
+			"  ,",
+			"love.isKeyPressed",
+			"key == ",
+			"love.graphics",
+			"\"Function\"",
+			"function",
+			"Function",
+			"setup",
+			"renderer",
+			"init",
+			"log",
+			"cvs",
+			"400",
+			"width",
+			"dt",
+			".dt",
+			"dt",
+			" ;",
+			"window",
+			"merge",
+			"Number",
+			"Array",
+			"thing",
+			"\n	",
+			">-->\n",
+			" o",
+			"o",
+			"1",
+			"200",
+			"obj",
+			"turnSped",
+			"Axis",
+			"6",
+			"32",
+			"64",
+			"+",
+			"5",
+			"Axis",
+			"ent",
+			"InputDelegate",
+			"Axis",
+			"InputDelegate",
+			"=",
+			"that",
+			";",
+			"Inpu",
+			"In",
+			"I",
+			"idle",
+			"tank"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 65,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 190.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 214.0
+	},
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
